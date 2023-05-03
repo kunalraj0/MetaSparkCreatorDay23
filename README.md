@@ -1,4 +1,4 @@
-#Meta Spark Creator Day
+# Meta Spark Creator Day
 Meta Developer Circles Mumbai is organizing a week long hackathon in collaboration with XDG मुंBAI for you to share your Face AR Effects using Meta Spark. The more delightful and innovative, the better.
 
 The hackathon is open to students, working professionals, freelancers, and the professional AR developers & creators community.
