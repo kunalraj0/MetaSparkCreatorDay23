@@ -1,3 +1,4 @@
+#Meta Spark Creator Day
 Meta Developer Circles Mumbai is organizing a week long hackathon in collaboration with XDG मुंBAI for you to share your Face AR Effects using Meta Spark. The more delightful and innovative, the better.
 
 The hackathon is open to students, working professionals, freelancers, and the professional AR developers & creators community.
@@ -37,3 +38,22 @@ Judging phase / Winners announcement:
 
 ------------------
 
+Prizes:
+
+1 Grand Winner:
+- Meta Swag kit
+- Meta Spark Certification voucher worth USD 150
+- Feature on AR Gallery at Somaiya Vidyavihar University, Mumbai
+- Feature on Maker Mela platform (Asia's Largest Platform for Makers)
+- Certificate of Appreciation
+
+2 Winners:
+- Meta Swag kit
+- Feature on Maker Mela platform (Asia's Largest Platform for Makers)
+- Certificate of Appreciation
+
+1 Runner-up:
+- Feature on Maker Mela platform (Asia's Largest Platform for Makers)
+- Certificate of Appreciation
+
+Certificate of Participation will be rewarded to all the valid submissions.
